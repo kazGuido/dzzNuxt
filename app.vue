@@ -1,7 +1,7 @@
 <template>
   <div>
-    WOAW
-    <NuxtWelcome />
+    WOAW oh
+    <Home />
 
   </div>
 </template>
