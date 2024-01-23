@@ -24,7 +24,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-sm-12">
-                     <div class="logo"><a href="index.html"><img src="images/logo.png"></a></div>
+                     <div class="logo"><a href="index.html"><img src="/static/images/logo.png"></a></div>
                   </div>
                </div>
             </div>
@@ -41,7 +41,7 @@
                      <a href="electronic.html">Electronic</a>
                      <a href="jewellery.html">Jewellery</a>
                   </div>
-                  <span class="toggle_icon" onclick="openNav()"><img src="images/toggle-icon.png"></span>
+                  <span class="toggle_icon" onclick="openNav()"><img src="/static/images/toggle-icon.png"></span>
                   <div class="dropdown">
                      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">All Category 
                      </button>
@@ -65,11 +65,11 @@
                   <div class="header_box">
                      <div class="lang_box ">
                         <a href="#" title="Language" class="nav-link" data-toggle="dropdown" aria-expanded="true">
-                        <img src="images/flag-uk.png" alt="flag" class="mr-2 " title="United Kingdom"> English <i class="fa fa-angle-down ml-2" aria-hidden="true"></i>
+                        <img src="/static/images/flag-uk.png" alt="flag" class="mr-2 " title="United Kingdom"> English <i class="fa fa-angle-down ml-2" aria-hidden="true"></i>
                         </a>
                         <div class="dropdown-menu ">
                            <a href="#" class="dropdown-item">
-                           <img src="images/flag-france.png" class="mr-2" alt="flag">
+                           <img src="/static/images/flag-france.png" class="mr-2" alt="flag">
                            French
                            </a>
                         </div>
@@ -146,7 +146,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Man T -shirt</h4>
                                  <p class="price_text">Price  <span style="color: #262626;">$ 30</span></p>
-                                 <div class="tshirt_img"><img src="images/tshirt-img.png"></div>
+                                 <div class="tshirt_img"><img src="/static/images/tshirt-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -157,7 +157,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Man -shirt</h4>
                                  <p class="price_text">Price  <span style="color: #262626;">$ 30</span></p>
-                                 <div class="tshirt_img"><img src="images/dress-shirt-img.png"></div>
+                                 <div class="tshirt_img"><img src="/static/images/dress-shirt-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -168,7 +168,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Woman Scart</h4>
                                  <p class="price_text">Price  <span style="color: #262626;">$ 30</span></p>
-                                 <div class="tshirt_img"><img src="images/women-clothes-img.png"></div>
+                                 <div class="tshirt_img"><img src="/static/images/women-clothes-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -188,7 +188,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Man T -shirt</h4>
                                  <p class="price_text">Price  <span style="color: #262626;">$ 30</span></p>
-                                 <div class="tshirt_img"><img src="images/tshirt-img.png"></div>
+                                 <div class="tshirt_img"><img src="/static/images/tshirt-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -199,7 +199,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Man -shirt</h4>
                                  <p class="price_text">Price  <span style="color: #262626;">$ 30</span></p>
-                                 <div class="tshirt_img"><img src="images/dress-shirt-img.png"></div>
+                                 <div class="tshirt_img"><img src="/static/images/dress-shirt-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -210,7 +210,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Woman Scart</h4>
                                  <p class="price_text">Price  <span style="color: #262626;">$ 30</span></p>
-                                 <div class="tshirt_img"><img src="images/women-clothes-img.png"></div>
+                                 <div class="tshirt_img"><img src="/static/images/women-clothes-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -230,7 +230,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Man T -shirt</h4>
                                  <p class="price_text">Price  <span style="color: #262626;">$ 30</span></p>
-                                 <div class="tshirt_img"><img src="images/tshirt-img.png"></div>
+                                 <div class="tshirt_img"><img src="/static/images/tshirt-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -241,7 +241,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Man -shirt</h4>
                                  <p class="price_text">Price  <span style="color: #262626;">$ 30</span></p>
-                                 <div class="tshirt_img"><img src="images/dress-shirt-img.png"></div>
+                                 <div class="tshirt_img"><img src="/static/images/dress-shirt-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -252,7 +252,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Woman Scart</h4>
                                  <p class="price_text">Price  <span style="color: #262626;">$ 30</span></p>
-                                 <div class="tshirt_img"><img src="images/women-clothes-img.png"></div>
+                                 <div class="tshirt_img"><img src="/static/images/women-clothes-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -286,7 +286,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Laptop</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="electronic_img"><img src="images/laptop-img.png"></div>
+                                 <div class="electronic_img"><img src="/static/images/laptop-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -297,7 +297,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Mobile</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="electronic_img"><img src="images/mobile-img.png"></div>
+                                 <div class="electronic_img"><img src="/static/images/mobile-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -308,7 +308,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Computers</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="electronic_img"><img src="images/computer-img.png"></div>
+                                 <div class="electronic_img"><img src="/static/images/computer-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -328,7 +328,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Laptop</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="electronic_img"><img src="images/laptop-img.png"></div>
+                                 <div class="electronic_img"><img src="/static/images/laptop-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -339,7 +339,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Mobile</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="electronic_img"><img src="images/mobile-img.png"></div>
+                                 <div class="electronic_img"><img src="/static/images/mobile-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -350,7 +350,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Computers</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="electronic_img"><img src="images/computer-img.png"></div>
+                                 <div class="electronic_img"><img src="/static/images/computer-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -370,7 +370,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Laptop</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="electronic_img"><img src="images/laptop-img.png"></div>
+                                 <div class="electronic_img"><img src="/static/images/laptop-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -381,7 +381,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Mobile</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="electronic_img"><img src="images/mobile-img.png"></div>
+                                 <div class="electronic_img"><img src="/static/images/mobile-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -392,7 +392,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Computers</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="electronic_img"><img src="images/computer-img.png"></div>
+                                 <div class="electronic_img"><img src="/static/images/computer-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -426,7 +426,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Jumkas</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="jewellery_img"><img src="images/jhumka-img.png"></div>
+                                 <div class="jewellery_img"><img src="/static/images/jhumka-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -437,7 +437,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Necklaces</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="jewellery_img"><img src="images/neklesh-img.png"></div>
+                                 <div class="jewellery_img"><img src="/static/images/neklesh-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -448,7 +448,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Kangans</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="jewellery_img"><img src="images/kangan-img.png"></div>
+                                 <div class="jewellery_img"><img src="/static/images/kangan-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -468,7 +468,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Jumkas</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="jewellery_img"><img src="images/jhumka-img.png"></div>
+                                 <div class="jewellery_img"><img src="/static/images/jhumka-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -479,7 +479,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Necklaces</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="jewellery_img"><img src="images/neklesh-img.png"></div>
+                                 <div class="jewellery_img"><img src="/static/images/neklesh-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -490,7 +490,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Kangans</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="jewellery_img"><img src="images/kangan-img.png"></div>
+                                 <div class="jewellery_img"><img src="/static/images/kangan-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -510,7 +510,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Jumkas</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="jewellery_img"><img src="images/jhumka-img.png"></div>
+                                 <div class="jewellery_img"><img src="/static/images/jhumka-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -521,7 +521,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Necklaces</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="jewellery_img"><img src="images/neklesh-img.png"></div>
+                                 <div class="jewellery_img"><img src="/static/images/neklesh-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -532,7 +532,7 @@
                               <div class="box_main">
                                  <h4 class="shirt_text">Kangans</h4>
                                  <p class="price_text">Start Price  <span style="color: #262626;">$ 100</span></p>
-                                 <div class="jewellery_img"><img src="images/kangan-img.png"></div>
+                                 <div class="jewellery_img"><img src="/static/images/kangan-img.png"></div>
                                  <div class="btn_main">
                                     <div class="buy_bt"><a href="#">Buy Now</a></div>
                                     <div class="seemore_bt"><a href="#">See More</a></div>
@@ -559,7 +559,7 @@
       <!-- footer section start -->
       <div class="footer_section layout_padding">
          <div class="container">
-            <div class="footer_logo"><a href="index.html"><img src="images/footer-logo.png"></a></div>
+            <div class="footer_logo"><a href="index.html"><img src="/static/images/footer-logo.png"></a></div>
             <div class="input_bt">
                <input type="text" class="mail_bt" placeholder="Your Email" name="Your Email">
                <span class="subscribe_bt" id="basic-addon2"><a href="#">Subscribe</a></span>
