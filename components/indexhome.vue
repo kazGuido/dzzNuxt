@@ -13,8 +13,8 @@
  export default{
     async asyncData(){
         const merchant = await commerce.merchants.about();
-        const {data: categories} = await commerce.categories.about();
-        const {data: products} = await commerce.products.about();
+        const {data: categories} = await commerce.categories.list();
+        const {data: products} = await commerce.products.list();
         return {merchant, categories, products}
     }
  }
