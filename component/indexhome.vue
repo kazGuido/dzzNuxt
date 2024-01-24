@@ -15,7 +15,11 @@
         const merchant = await commerce.merchants.about();
         const {data: categories} = await commerce.categories.about();
         const {data: products} = await commerce.products.about();
-        return {merchant, categories, products}
-    }
- }
+        return {
+            merchant, 
+            categories, 
+            products
+            };
+    };
+ };
  </script>

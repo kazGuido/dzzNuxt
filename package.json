@@ -7,7 +7,10 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
   },
   "devDependencies": {
     "nuxt": "^3.9.3",
@@ -18,4 +21,5 @@
     "@chec/commerce.js": "^2.8.0",
     "bootstrap-vue": "^2.23.1"
   }
+  
 }
