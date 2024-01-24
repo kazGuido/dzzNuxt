@@ -8,6 +8,8 @@ export default defineNuxtConfig({
     '~/static/css/jquery.mCustomScrollbar.min.css',
     '~/static/css/owl.carousel.min.css',
   ],
+  components:true,
+  
 
    
 })

@@ -1,6 +1,8 @@
 <template>
   <div>
-   Cool
+  Hello ?
+   <indexhome />
+
    
   </div>
 </template>

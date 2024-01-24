@@ -15,6 +15,7 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
+    "@chec/commerce.js": "^2.8.0",
     "bootstrap-vue": "^2.23.1"
   }
 }
