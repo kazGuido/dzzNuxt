@@ -1,7 +1,6 @@
 <template>
   <div>
-    WOAW oh
-    <Home />
-
+   Cool
+   
   </div>
 </template>

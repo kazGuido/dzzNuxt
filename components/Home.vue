@@ -1,3 +1,18 @@
+<script setup>
+   // import { useHead } from 'vue-meta'
+   useHead({
+      title:"Tulande Online - Come Shop With Us !",
+      meta:[
+         { 
+            name:'Description', 
+            content:'Tulande Online - Come Shop With Us !',
+            //other things
+         },],
+
+   })
+
+</script>
+
 <template>
     <div class="banner_bg_main">
          <!-- header top section start -->
@@ -35,13 +50,13 @@
             <div class="container">
                <div class="containt_main">
                   <div id="mySidenav" class="sidenav">
-                     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                     <a href="javascript:void(0)" class="closebtn" @click="closeNav">&times;</a>
                      <a href="index.html">Home</a>
                      <a href="fashion.html">Fashion</a>
                      <a href="electronic.html">Electronic</a>
                      <a href="jewellery.html">Jewellery</a>
                   </div>
-                  <span class="toggle_icon" onclick="openNav()"><img src="/static/images/toggle-icon.png"></span>
+                  <span class="toggle_icon" @click="openNav"><img src="/static/images/toggle-icon.png"></span>
                   <div class="dropdown">
                      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">All Category 
                      </button>
@@ -584,3 +599,23 @@
          </div>
       </div>
 </template>
+<script>
+   export default {
+     data() {
+       return {
+         // Define your component's reactive data
+       };
+     },
+     methods: {
+       openNav() {
+         this.$refs.sidenav.style.width = "250px";
+       },
+       closeNav() {
+         this.$refs.sidenav.style.width = "0";
+       }
+     },
+     mounted() {
+       // If you have initialization logic, it can go here
+     }
+   };
+   </script>
